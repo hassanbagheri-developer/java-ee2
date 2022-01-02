@@ -1,6 +1,6 @@
 # Pull base image.
 FROM tomcat
-
+   
 #RUN 
 # Update
 #apt-get update -y && \
