@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 echo test
 [root@centos8 java-ee1]# cat script.sh2
 #!/bin/bash
